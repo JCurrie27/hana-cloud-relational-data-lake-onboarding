@@ -1,6 +1,6 @@
 # Description
 
-This project is for SAP HANA Cloud, data lake users who are reading the [SAP HANA Cloud, Data Lake Quick Start Tutorial [Microsoft Azure]](https://help.sap.com/viewer/80694cc56cd047f9b92cb4a7b7171bc2/latest/en-US), or [SAP HANA Cloud, Data Lake Quick Start Tutorial [Amazon Web Services]](https://help.sap.com/viewer/091bc50a962a4d4ba03b4bf2b8301ff5/latest/en-US) on SAP Help Portal.
+This project is for SAP HANA Cloud, data lake users who are reading the [Quick Start Tutorial for Data Lake (HANA DB-Managed) [Microsoft Azure]](https://help.sap.com/viewer/c005245f608a4040842af487f546192a/latest/en-US), [Quick Start Tutorial for Data Lake (HANA DB-Managed) [Amazon Web Services]](https://help.sap.com/viewer/47e2b12f825c4d61a37920ce889b88ca/latest/en-US), or [Quick Start Tutorial for Data Lake](https://help.sap.com/viewer/product/SAP_HANA_DATA_LAKE/latest/en-US) on SAP Help Portal.
 
 This project contains three sample files required by the Quick Start tutorials:
 
@@ -8,7 +8,7 @@ This project contains three sample files required by the Quick Start tutorials:
 - gkg_samp.CSV
 - mentions_samp.CSV   
 
-Download these three CSV files to your local file system as described in the **Download and Analyze Sample GDELT Data** topic in [SAP HANA Cloud, Data Lake Quick Start Tutorial [Microsoft Azure]](https://help.sap.com/viewer/80694cc56cd047f9b92cb4a7b7171bc2/latest/en-US), or [SAP HANA Cloud, Data Lake Quick Start Tutorial [Amazon Web Services]](https://help.sap.com/viewer/091bc50a962a4d4ba03b4bf2b8301ff5/latest/en-US).
+Download these three CSV files to your local file system as described in the **Download and Analyze Sample GDELT Data** topic in [Quick Start Tutorial for Data Lake (HANA DB-Managed) [Microsoft Azure]](https://help.sap.com/viewer/c005245f608a4040842af487f546192a/latest/en-US), [Quick Start Tutorial for Data Lake (HANA DB-Managed) [Amazon Web Services]](https://help.sap.com/viewer/47e2b12f825c4d61a37920ce889b88ca/latest/en-US), or [Quick Start Tutorial for Data Lake](https://help.sap.com/viewer/product/SAP_HANA_DATA_LAKE/latest/en-US).
 
 This project contains two code snippets containing CREATE TABLE statements:
 
@@ -24,6 +24,8 @@ On the SAP Help Portal, you are currently following the Quick Start tutorials fo
 - [SAP HANA Cloud, Data Lake Quick Start Tutorial [Microsoft Azure]](https://help.sap.com/viewer/80694cc56cd047f9b92cb4a7b7171bc2/latest/en-US), or
 
 - [SAP HANA Cloud, Data Lake Quick Start Tutorial [Amazon Web Services]](https://help.sap.com/viewer/091bc50a962a4d4ba03b4bf2b8301ff5/latest/en-US)
+
+- [Quick Start Tutorial for Data Lake](https://help.sap.com/viewer/product/SAP_HANA_DATA_LAKE/latest/en-US)
 
 You've read the **Prerequisites** section on the first page of the above tutorial(s).
 
